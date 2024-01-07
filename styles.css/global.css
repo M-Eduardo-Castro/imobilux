@@ -1,0 +1,17 @@
+@import url(/styles.css/heafoo.css);
+@import url(/styles.css/index.css);
+
+body,
+ul {
+  margin: 0px;
+  padding: 0px;
+  font-family: oxanium, sans serif;
+}
+a {
+  text-decoration: none;
+  color: black;
+  padding: 10px 10px 10px 10px;
+}
+li {
+  list-style: none;
+}
